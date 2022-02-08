@@ -4,7 +4,7 @@
 
 Hi! I'm HP8, a young programmer from the Best Coast! I use this GitHub to put up various snippets and projects from time to time, which I may or may not update. I'm currently freelancing as a game developer while I teach myself how to code. Most of what I put up on GitHub are tools for Unity, little bits of code I find myself repeating across projects that might be useful in the future. You're free and welcome to use any of them to your heart's content, please just credit me if and when you do so.
 
-I have some experience with C#, Python, HTML, and CSS. I'm currently tinkering with a number of projects to try to broaden my horizons. My goal is one commit a day, Monday through Friday, for the year of 2022.
+I have some experience with C#, Python, HTML, and CSS. I'm currently tinkering with a number of projects to try to broaden my horizons. My goal is one commit a day, Monday through Friday, for the year of 2022. It's going okay so far!
 
 ## Info
 ![OS: Windows](https://img.shields.io/static/v1?label=OS&message=Windows&color=red&logo=Windows) ![OS: Linux](https://img.shields.io/static/v1?label=OS&message=Zorin&color=red&logo=zorin) ![Editor: VSCode](https://img.shields.io/static/v1?label=Editor&message=VSCode&color=red&logo=visualstudiocode) ![Language: C#](https://img.shields.io/static/v1?label=Language&message=Csharp&color=red&logo=csharp) ![Language: Python](https://img.shields.io/static/v1?label=Language&message=Python&color=red&logo=python) ![Tools: MySQL](https://img.shields.io/static/v1?label=Tools&message=MySQL&color=red&logo=mysql) 
